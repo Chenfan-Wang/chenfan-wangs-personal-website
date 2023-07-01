@@ -1,0 +1,33 @@
+.title {
+    font-size: 6pc;
+    font-family: 'Times New Roman', KaiTi, Arial, SimSun;
+    text-align: center;
+    background-color: rgb(35, 200, 250);
+    background-repeat: no-repeat;
+}
+.homebuttons {
+    width: 19.6%;
+    height: 130px;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 6px;
+}
+.homebuttons:hover {
+    width: 19.6%;
+    height: 130px;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 6px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.copyright {
+    position:fixed; 
+    z-index:100; 
+    bottom:0px; 
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+    background-color: rgb(35, 200, 250);
+}
